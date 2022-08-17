@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://white-walnut.github.io/Product-Preview-Card-Component-Challenge/
+- Solution URL: https://github.com/White-Walnut/Product-Preview-Card-Component-Challenge
 - Live Site URL: https://white-walnut.github.io/Product-Preview-Card-Component-Challenge/
 
 ## My process
